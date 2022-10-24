@@ -1,5 +1,5 @@
 ---
-title: my-birthday
+title: "my-birthday"
 date: 2022-10-24
 ---
 
